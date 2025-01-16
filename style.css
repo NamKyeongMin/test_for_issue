@@ -97,7 +97,7 @@
 .account-title {
     color: var(--white);
     font-size: 15px;
-    font-style: normal;
+    font-family: 'Pretendard-Regular';
     font-weight: 400;
     line-height: 30px;
 }
@@ -120,7 +120,7 @@
 .account-btn span {
     color: #D0D6DE;
     font-size: 15px;
-    font-style: normal;
+    font-family: 'Pretendard-Regular';
     font-weight: 600;
     line-height: normal;
 }
